@@ -1,0 +1,1 @@
+# church-translation-app-locally-
