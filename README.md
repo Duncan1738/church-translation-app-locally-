@@ -6,7 +6,7 @@ Features:
 Login Authentication: Secure access with password validation.
 Live Translation: Multiple language selection for live translations.
 Bluetooth Connectivity: Easily pair with translation devices.
-Cross-Platform Support: Works on Android, iOS, and Windows..
+Cross-Platform Support: Works on Android, iOS, and Windows.
 
 ## Getting Started
 
