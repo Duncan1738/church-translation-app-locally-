@@ -33,22 +33,12 @@ cd churchapp
 
 2️⃣ Install Flutter & Dependencies
 Ensure Flutter is installed on your system. Then, install required dependencies:
-
-bash
-Copy
-Edit
 flutter pub get
 3️⃣ Run the App on an Emulator or Device
-bash
-Copy
-Edit
 flutter run
 📲 Screenshots
 Login Screen	Live Translation	Bluetooth Pairing
 🛠️ Project Structure
-bash
-Copy
-Edit
 📂 churchapp/
 │── 📂 lib/                 # Main Flutter app files
 │   │── 📂 screens/         # UI Screens (Login, Translation, Settings)
