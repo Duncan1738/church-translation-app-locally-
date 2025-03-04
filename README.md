@@ -1,22 +1,67 @@
-# churchapp
+# ⛪ ChurchApp – Live Translation for Church Services 🎤🌍
 
-A Flutter-based mobile application designed for live translation services in church settings. The app allows users to log in securely and access translation features. It supports multiple languages (English, Chinese, Vietnamese, and Spanish) and integrates Bluetooth for connecting translation devices. The UI combines Material and Cupertino widgets for a modern and user-friendly experience.
+**ChurchApp** is a **Flutter-based mobile application** designed for **live translation services in church settings**.  
+The app enables users to **log in securely, access real-time translations, and connect to Bluetooth translation devices**.  
+It supports multiple languages and offers a **modern, user-friendly UI** with **Material & Cupertino widgets**.
 
-Features:
-Login Authentication: Secure access with password validation.
-Live Translation: Multiple language selection for live translations.
-Bluetooth Connectivity: Easily pair with translation devices.
-Cross-Platform Support: Works on Android, iOS, and Windows.
+---
 
-## Getting Started
+## 🌟 Features
+✅ **Login Authentication** – Secure access with password validation.  
+✅ **Live Translation** – Select from **English, Chinese, Vietnamese, and Spanish** for real-time translation.  
+✅ **Bluetooth Connectivity** – Easily pair with **translation devices** for seamless audio transmission.  
+✅ **Cross-Platform Support** – Works on **Android, iOS, and Windows** with Flutter.  
+✅ **Modern UI** – Uses **Material & Cupertino widgets** for an intuitive interface.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Technologies Used
+- **Flutter (Dart)**
+- **Firebase Authentication** (for secure login)
+- **Bluetooth API** (for device connectivity)
+- **WebSockets** (for live translation streaming)
+- **SQLite** (for offline user data storage)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Getting Started
+
+### 1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/yourusername/churchapp.git
+cd churchapp
+
+2️⃣ Install Flutter & Dependencies
+Ensure Flutter is installed on your system. Then, install required dependencies:
+
+bash
+Copy
+Edit
+flutter pub get
+3️⃣ Run the App on an Emulator or Device
+bash
+Copy
+Edit
+flutter run
+📲 Screenshots
+Login Screen	Live Translation	Bluetooth Pairing
+🛠️ Project Structure
+bash
+Copy
+Edit
+📂 churchapp/
+│── 📂 lib/                 # Main Flutter app files
+│   │── 📂 screens/         # UI Screens (Login, Translation, Settings)
+│   │── 📂 services/        # Authentication & Bluetooth services
+│   │── 📂 models/          # Data models for users & translations
+│   │── 📂 widgets/         # Reusable UI components
+│   │── main.dart           # Main application entry point
+│── 📂 assets/              # App assets (icons, images)
+│── pubspec.yaml            # Flutter dependencies
+│── README.md               # Documentation
+🎮 How It Works
+1️⃣ User Logs In – Secure authentication using Firebase.
+2️⃣ Selects a Language – Choose English, Chinese, Vietnamese, or Spanish.
+3️⃣ Connects via Bluetooth – Pair with translation device.
+4️⃣ Receives Live Translations – Text/audio streaming for real-time translation.
+
