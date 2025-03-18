@@ -28,7 +28,7 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/churchapp.git
+git clone https://github.com/Duncan1738/church-translation-app-locally-.git
 cd churchapp
 
 2️⃣ Install Flutter & Dependencies
