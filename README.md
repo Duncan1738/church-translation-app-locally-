@@ -1,4 +1,4 @@
-# ⛪ ChurchApp – Live Translation for Church Services 🎤🌍
+# ⛪ ChurchApp – Live Translation for Church Services 
 
 **ChurchApp** is a **Flutter-based mobile application** designed for **live translation services in church settings**.  
 The app enables users to **log in securely, access real-time translations, and connect to Bluetooth translation devices**.  
@@ -6,7 +6,7 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 
 ---
 
-## 🌟 Features
+##  Features
 ✅ **Login Authentication** – Secure access with password validation.  
 ✅ **Live Translation** – Select from **English, Chinese, Vietnamese, and Spanish** for real-time translation.  
 ✅ **Bluetooth Connectivity** – Easily pair with **translation devices** for seamless audio transmission.  
@@ -15,7 +15,7 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 - **Flutter (Dart)**
 - **Firebase Authentication** (for secure login)
 - **Bluetooth API** (for device connectivity)
@@ -24,7 +24,7 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 
 ---
 
-## 📌 Getting Started
+##  Getting Started
 
 ### 1️⃣ **Clone the Repository**
 ```bash
