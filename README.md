@@ -38,7 +38,7 @@ flutter pub get
 flutter run
 📲 Screenshots
 Login Screen	Live Translation	Bluetooth Pairing
-🛠️ Project Structure
+Project Structure
 📂 churchapp/
 │── 📂 lib/                 # Main Flutter app files
 │   │── 📂 screens/         # UI Screens (Login, Translation, Settings)
