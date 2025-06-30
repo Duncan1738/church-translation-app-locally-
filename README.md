@@ -36,7 +36,7 @@ flutter pub get
 flutter run
 
 ---
-Screenshots
+### Screenshots
 Login Screen	Live Translation	Bluetooth Pairing
 Project Structure
 📂 churchapp/
