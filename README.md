@@ -49,9 +49,11 @@ Project Structure
 │── 📂 assets/              # App assets (icons, images)
 │── pubspec.yaml            # Flutter dependencies
 │── README.md               # Documentation
- How It Works
-1️⃣ User Logs In – Secure authentication using Firebase.
-2️⃣ Selects a Language – Choose English, Chinese, Vietnamese, or Spanish.
-3️⃣ Connects via Bluetooth – Pair with translation device.
-4️⃣ Receives Live Translations – Text/audio streaming for real-time translation.
+
+---
+### How It Works
+1️. User Logs In – Secure authentication using Firebase.
+2️. Selects a Language – Choose English, Chinese, Vietnamese, or Spanish.
+3️. Connects via Bluetooth – Pair with translation device.
+4️. Receives Live Translations – Text/audio streaming for real-time translation.
 
