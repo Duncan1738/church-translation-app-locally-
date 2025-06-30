@@ -57,3 +57,5 @@ Project Structure
 3️. Connects via Bluetooth – Pair with translation device.
 4️. Receives Live Translations – Text/audio streaming for real-time translation.
 
+---
+MIT licence
