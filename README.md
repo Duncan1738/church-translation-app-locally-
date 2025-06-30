@@ -26,16 +26,16 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 
 ##  Getting Started
 
-### 1️⃣ **Clone the Repository**
-```bash
+1️.  **Clone the Repository**
 git clone https://github.com/Duncan1738/church-translation-app-locally-.git
 cd churchapp
-
-2️⃣ Install Flutter & Dependencies
+2️.  Install Flutter & Dependencies
 Ensure Flutter is installed on your system. Then, install required dependencies:
 flutter pub get
-3️⃣ Run the App on an Emulator or Device
+3️. Run the App on an Emulator or Device
 flutter run
+
+---
 Screenshots
 Login Screen	Live Translation	Bluetooth Pairing
 Project Structure
@@ -49,7 +49,7 @@ Project Structure
 │── 📂 assets/              # App assets (icons, images)
 │── pubspec.yaml            # Flutter dependencies
 │── README.md               # Documentation
-🎮 How It Works
+ How It Works
 1️⃣ User Logs In – Secure authentication using Firebase.
 2️⃣ Selects a Language – Choose English, Chinese, Vietnamese, or Spanish.
 3️⃣ Connects via Bluetooth – Pair with translation device.
