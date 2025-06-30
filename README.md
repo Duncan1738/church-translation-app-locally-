@@ -36,7 +36,7 @@ Ensure Flutter is installed on your system. Then, install required dependencies:
 flutter pub get
 3️⃣ Run the App on an Emulator or Device
 flutter run
-📲 Screenshots
+Screenshots
 Login Screen	Live Translation	Bluetooth Pairing
 Project Structure
 📂 churchapp/
