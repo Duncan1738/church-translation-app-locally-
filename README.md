@@ -38,17 +38,17 @@ flutter run
 ---
 ### Screenshots
 Login Screen	Live Translation	Bluetooth Pairing
-Project Structure
-📂 churchapp/
-│── 📂 lib/                 # Main Flutter app files
-│   │── 📂 screens/         # UI Screens (Login, Translation, Settings)
-│   │── 📂 services/        # Authentication & Bluetooth services
-│   │── 📂 models/          # Data models for users & translations
-│   │── 📂 widgets/         # Reusable UI components
-│   │── main.dart           # Main application entry point
-│── 📂 assets/              # App assets (icons, images)
-│── pubspec.yaml            # Flutter dependencies
-│── README.md               # Documentation
+**Project Structure**
+- 📂 churchapp/
+- │── 📂 lib/                 # Main Flutter app files
+- │   │── 📂 screens/         # UI Screens (Login, Translation, Settings)
+- │   │── 📂 services/        # Authentication & Bluetooth services
+- │   │── 📂 models/          # Data models for users & translations
+- │   │── 📂 widgets/         # Reusable UI components
+- │   │── main.dart           # Main application entry point
+- │── 📂 assets/              # App assets (icons, images)
+- │── pubspec.yaml            # Flutter dependencies
+- │── README.md               # Documentation
 
 ---
 ### How It Works
