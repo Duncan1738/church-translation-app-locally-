@@ -26,13 +26,13 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 
 ##  Getting Started
 
-1️.  **Clone the Repository**
+-  **Clone the Repository**
 git clone https://github.com/Duncan1738/church-translation-app-locally-.git
 cd churchapp
-2️.  Install Flutter & Dependencies
+-  **Install Flutter & Dependencies**
 Ensure Flutter is installed on your system. Then, install required dependencies:
 flutter pub get
-3️. Run the App on an Emulator or Device
+- **Run the App on an Emulator or Device**
 flutter run
 
 ---
