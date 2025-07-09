@@ -52,7 +52,7 @@ Login Screen	Live Translation	Bluetooth Pairing
 
 ---
 ### How It Works
-1️. User Logs In – Secure authentication using Firebase.
+- User Logs In – Secure authentication using Firebase.
 2️. Selects a Language – Choose English, Chinese, Vietnamese, or Spanish.
 3️. Connects via Bluetooth – Pair with translation device.
 4️. Receives Live Translations – Text/audio streaming for real-time translation.
