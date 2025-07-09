@@ -7,8 +7,8 @@ It supports multiple languages and offers a **modern, user-friendly UI** with **
 ---
 
 ##  Features
-✅ **Login Authentication** – Secure access with password validation.  
-✅ **Live Translation** – Select from **English, Chinese, Vietnamese, and Spanish** for real-time translation.  
+- **Login Authentication** – Secure access with password validation.  
+ **Live Translation** – Select from **English, Chinese, Vietnamese, and Spanish** for real-time translation.  
 ✅ **Bluetooth Connectivity** – Easily pair with **translation devices** for seamless audio transmission.  
 ✅ **Cross-Platform Support** – Works on **Android, iOS, and Windows** with Flutter.  
 ✅ **Modern UI** – Uses **Material & Cupertino widgets** for an intuitive interface.  
