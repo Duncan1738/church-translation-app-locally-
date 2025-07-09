@@ -55,7 +55,7 @@ Login Screen	Live Translation	Bluetooth Pairing
 - User Logs In – Secure authentication using Firebase.
 - Selects a Language – Choose English, Chinese, Vietnamese, or Spanish.
 - Connects via Bluetooth – Pair with translation device.
-4️. Receives Live Translations – Text/audio streaming for real-time translation.
+- Receives Live Translations – Text/audio streaming for real-time translation.
 
 ---
 MIT licence
