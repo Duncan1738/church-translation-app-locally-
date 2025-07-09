@@ -48,7 +48,7 @@ Login Screen	Live Translation	Bluetooth Pairing
 - │   │── main.dart           # Main application entry point
 - │── 📂 assets/              # App assets (icons, images)
 - │── pubspec.yaml            # Flutter dependencies
-- │── README.md               # Documentation
+
 
 ---
 ### How It Works
